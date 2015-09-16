@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 善見律毘婆沙
+#+DATE: 2015-08-30 20:42:54.531001
+#+PROPERTY: JUAN 0
