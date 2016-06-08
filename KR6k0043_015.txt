@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:54.063667
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:58
 #+TITLE: 善見律毘婆沙
 #+PROPERTY: CBETA_ID T24n1462
 #+PROPERTY: ID KR6k0043
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1462
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0043_T_015-0775a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《善見律毘婆沙》卷第十五¶
+《善見律毘婆沙》卷第十五¶
 ¶
 蕭齊外國三藏僧伽跋陀羅譯¶
 
@@ -600,9 +599,9 @@
 　車士能制止，
 　不足以為難，¶
 　人能制瞋心，
-　此事最為難。』
+　此事最為難。』」
 #+END_VERSE
-」¶
+¶
 
 「佛說偈已，此樹神即得須陀洹道。佛知樹¶
 神無住處，以天眼觀見樹無主者，語樹¶

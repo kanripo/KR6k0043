@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:53.996337
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:58
 #+TITLE: 善見律毘婆沙
 #+PROPERTY: CBETA_ID T24n1462
 #+PROPERTY: ID KR6k0043
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1462
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0043_T_013-0762c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 13
 ¶
 ¶
-
- 《善見律毘婆沙》卷第十三¶
+《善見律毘婆沙》卷第十三¶
 ¶
 蕭齊外國三藏僧伽跋陀羅譯¶
 
@@ -268,7 +267,7 @@
 「若作屋餘塼¶
 泥留置，我後當成，偷蘭遮。若決定罷心，僧伽¶
 婆尸沙。若周匝壘壁上不至屋留取明，不¶
-犯。若作屋，留一摶泥處後當成，有緣事¶
+犯。若作屋，留一搏泥處後當成，有緣事¶
 行不作，有客比丘來住，見不成為成，彼此¶
 無罪。若難處、妨處，二突吉羅。僧不處分、過量，¶
 二僧伽婆尸沙。若作屋未成，若施僧乃至一¶
